@@ -7,7 +7,7 @@ public class ArraysBasic {
         // int ans = Arrays.binarySearch(arr,2);
     
     
-        System.out.println(FindIndex(arr,1)); 
+        System.out.println(FindIndex(arr,2)); 
 
     }
 
